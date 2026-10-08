@@ -1,7 +1,7 @@
 import Card from "@/components/Card";
 import Counter from "@/components/Counter";
 
-export default function AboutPage() {
+export default function HomePage() {
   return (
     <main style={{ padding: '2rem' }}>
       <h1>O nas</h1>
