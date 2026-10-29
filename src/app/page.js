@@ -37,6 +37,7 @@ export default function HomePage() {
       <Counter />
       <GreetingForm />
       <CounterWithLog />
+      <span className="highlight">Ważna informacja</span>
       <TimerToggle />
     </main>
   );
